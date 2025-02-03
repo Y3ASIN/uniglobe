@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply Inter font globally */
+body {
+  @apply font-inter;
+}
